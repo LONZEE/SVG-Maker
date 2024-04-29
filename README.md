@@ -23,3 +23,7 @@ Please replace `https://github.com/yourusername/SVG-Maker.git` with the actual U
 A special thanks to Alex Palace for his valuable contributions to the code. His expertise and support have been instrumental in the development of this project.
 Github `https://github.com/anplace`
 
+## Challenges
+
+One of the main challenges faced during the development of this project was finding the right version of the `inquirer` package. I encountered issues where the package would not load correctly, which required me to experiment with different versions until I found one that worked. This was a time-consuming process, but it ultimately helped understand the importance of package management in Node.js projects.
+
