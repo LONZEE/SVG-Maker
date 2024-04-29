@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="200">
+        <polygon points="150,50 50,150 250,150" style="fill:blue" />
+        <text x="150" y="120" font-size="30" text-anchor="middle" fill="red">EDD</text></svg>
+
+
+
+<!-- Path: lib/object/Shape.svg -->
